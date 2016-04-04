@@ -1,1 +1,2 @@
-# Intelig-ncia-Artificial
+# Artificial Inteligence
+# Project IST
