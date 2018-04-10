@@ -6,4 +6,4 @@
 
 [Pedro Cruz](https://github.com/pedrocruz27) 78579 pedro.m.g.cruz@tecnico.ulisboa.pt
 
-# Project IST
+# Project IST 2015/2016
